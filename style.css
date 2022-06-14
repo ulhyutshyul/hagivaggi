@@ -1,0 +1,33 @@
+p {
+color: blue;
+}
+a {
+background-color: black;
+    color: white;
+}
+main{
+color: black;
+
+}
+.v {
+color: black;
+}
+h3 {
+color: red;
+}
+a {
+border-color: rgb(13, 0, 255);
+border-radius: 15px;
+background: rgb(13, 0, 255);
+}
+footer {
+background-color: black;
+    color: MediumSlateBlue;
+}
+.lolo {
+    color: brown;
+
+}
+.u {
+    border-bottom: 1;
+}
